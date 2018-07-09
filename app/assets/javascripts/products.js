@@ -1,0 +1,15 @@
+//= require instafeed.min
+//= require twitterFetcher.min
+//= require materialize.min
+//= require menuzord
+//= require jquery.easing.min
+//= require bootstrap-tabcollapse.min
+//= require imagesloaded
+//= require jquery.sticky.min
+//= require smoothscroll.min
+//= require jquery.stellar.min
+//= require jquery.shuffle.min
+//= require owl.carousel.min
+//= require jquery.flexslider-min
+//= require jquery.magnific-popup.min
+//= require scripts
